@@ -74,6 +74,12 @@ Home Cooks, Busy Professionals, Students, Families, People with Dietary Restrict
 ---
 
 ## 🖼️ Screenshots
+### 🔹 Setting up..
+![Setup & preview image](setup.jpg)
+### 🔹 Agent Instructions...
+![Agent Instructions](agent_instructions.jpg)
+### 🔹 Tools used & Testing...
+![Tool Used & Testing](tool_testing.jpg)
 ### 🔹 Input ingredients interface
 ![ingredients_input.jpg](ingredients_input.jpg)
 ### 🔹 Recipe suggestions based on input
@@ -84,6 +90,10 @@ Home Cooks, Busy Professionals, Students, Families, People with Dietary Restrict
 ![substitution.jpg](substitution.jpg)
 ### 🔹 Deployment & Preview
 ![deployed.jpg](deployed.jpg)
+### 🔹 API References after Deployment...
+![api _references](links.jpg)
+### 🔹 Resources List...
+![resourses_list.jpg](resourses_list.jpg)
 
 
 ## 📌 How to Run or Deploy
