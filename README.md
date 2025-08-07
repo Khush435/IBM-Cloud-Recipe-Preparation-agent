@@ -79,7 +79,7 @@ Home Cooks, Busy Professionals, Students, Families, People with Dietary Restrict
 ### 🔹 Tools used
 ![Tool Used & Testing](tools.jpg)
 ### 🔹 Input ingredients interface
-![ingredients_input.jpg](ingredients_input.jpg)
+![ingredients_input.jpg](ingredients.jpg)
 ### 🔹 Recipe suggestions based on input
 ![recipe_suggestion.jpg](recipe_suggestion.jpg)
 ### 🔹 Step-by-step instructions
