@@ -2,7 +2,11 @@
 
 An AI-powered assistant designed to help users cook meals using only the ingredients they have on hand. Built using IBM Watsonx.ai and Retrieval-Augmented Generation (RAG), this smart cooking companion suggests tailored recipes, substitutes missing ingredients, and adapts to dietary preferences to make home cooking simple, sustainable, and efficient.
 
+---
 
+![ai](AI.jpg)
+
+---
 
 ## 🧩 Problem Statement
 
