@@ -74,12 +74,10 @@ Home Cooks, Busy Professionals, Students, Families, People with Dietary Restrict
 ---
 
 ## 🖼️ Screenshots
-### 🔹 Setting up..
+### 🔹 Setting up
 ![Setup & preview image](setup.jpg)
-### 🔹 Agent Instructions...
-![Agent Instructions](agent_instructions.jpg)
-### 🔹 Tools used & Testing...
-![Tool Used & Testing](tool_testing.jpg)
+### 🔹 Tools used
+![Tool Used & Testing](tools.jpg)
 ### 🔹 Input ingredients interface
 ![ingredients_input.jpg](ingredients_input.jpg)
 ### 🔹 Recipe suggestions based on input
