@@ -81,13 +81,13 @@ Home Cooks, Busy Professionals, Students, Families, People with Dietary Restrict
 ### 🔹 Input ingredients interface
 ![ingredients_input.jpg](ingredients.jpg)
 ### 🔹 Recipe suggestions based on input
-![recipe_suggestion.jpg](recipe_suggestion.jpg)
+![recipe_suggestion.jpg](recipe.jpg)
 ### 🔹 Step-by-step instructions
-![step_by_step.jpg](step_by_step.jpg)
+![step_by_step.jpg](instructions.jpg)
 ### 🔹 Substitution tips
-![substitution.jpg](substitution.jpg)
+![substitution.jpg](substitutions.jpg)
 ### 🔹 Deployment & Preview
-![deployed.jpg](deployed.jpg)
+![deployed.jpg](deployed_agent.jpg)
 ### 🔹 API References after Deployment...
 ![api _references](links.jpg)
 ### 🔹 Resources List...
