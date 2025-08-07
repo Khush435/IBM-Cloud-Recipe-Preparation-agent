@@ -1,4 +1,3 @@
-# IBM-Cloud-Recipe-Preparation-agent
 # 🍲 Recipe Preparation AI Agent
 
 An AI-powered assistant designed to help users cook meals using only the ingredients they have on hand. Built using IBM Watsonx.ai and Retrieval-Augmented Generation (RAG), this smart cooking companion suggests tailored recipes, substitutes missing ingredients, and adapts to dietary preferences to make home cooking simple, sustainable, and efficient.
@@ -19,23 +18,20 @@ An AI agent trained using IBM Watsonx.ai that leverages Retrieval-Augmented Gene
 
 ## 🧠 Technologies Used
 
-- IBM Watsonx.ai Studio  
-- IBM Granite Foundation Model (LLM)  
-- Vector Index for Retrieval-Augmented Generation  
-- Recipe Dataset (Uploaded Documents)  
-- NLP (Natural Language Processing)  
-- IBM Cloud Object Storage  
+- IBM cloud lite services
+- Natural Language Processing (NLP)
+- Retrieval Augmented Generation (RAG)
+- IBM Granite model
 
 ---
 
 ## ☁️ IBM Cloud Services Used
 
-- Watsonx.ai Studio  
-- IBM Granite Model  
-- Watsonx Vector Index  
-- IBM Cloud Lite Account  
-- IBM Cloud IAM  
-- IBM Cloud Object Storage  
+
+- IBM Cloud Watsonx AI Studio
+- IBM Cloud Watsonx AI runtime
+- IBM Cloud Agent Lab
+- IBM Granite foundation model  
 
 ---
 
