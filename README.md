@@ -4,7 +4,7 @@ An AI-powered assistant designed to help users cook meals using only the ingredi
 
 ---
 
-![ai](Agent.jpg)
+![ai](Agent.png)
 
 ---
 
